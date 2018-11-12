@@ -1,7 +1,17 @@
- # ` ROOM MAPPING ROBOT WITH UNITY-3D ` 
+# Associated with :![binary piece](https://user-images.githubusercontent.com/26859754/48366381-bee58180-e6d3-11e8-9e6d-be325acd6474.png)
+
+
+
+
+
+
+# ` ROOM MAPPING ROBOT WITH UNITY-3D ` 
+ 
+
 
 ## This project uses an Arduino robot running a ESP-8266 Node MCU that communicates (and drives around) with a mobile phone.
 The phone is running an app made in the video game engine Unity 3D that does 3 things:
+
 
 
 1.) The first scene allows you to drive around the robot with a camera feed going back to your computer.
@@ -14,6 +24,9 @@ the tracker and then the robot will follow around that object.
 3.) The third scene allows you to drive the robot with your computer using the arrow keys.
 The app uses an augmented reality SDK to find the walls and ceiling which it sends back to your,
 laptop giving you a digital representation of your environment.
+
+![nodemcudevkit_v1-0_io](https://user-images.githubusercontent.com/26859754/48366198-1c2d0300-e6d3-11e8-9b2f-7145f10708e0.jpg)
+
 
 # Step 1: Assemble Your Robot
 
@@ -312,6 +325,7 @@ Open up the file that was created from Xcode and plug in your phone. Choose your
 :octocat:
 
 
+![tumblr_nxop2rkaga1sbqrlmo5_500](https://user-images.githubusercontent.com/26859754/48366286-5f877180-e6d3-11e8-9a24-1e87845420c4.gif)
 
 
 
