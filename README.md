@@ -30,9 +30,8 @@ laptop giving you a digital representation of your environment.
 
 # Step 1: Assemble Your Robot
 
-So I built my robot with spare 3D printed parts I had but you could use a DVD case or 
-a any other small flat piece of plastic. I linked to a chassis on Amazon in the intro which
-you can use but the Arduino code would be slightly different. I had all my motors facing the same direction
+So I built my robot with spare parts which I ordered on Amazon.
+you can use any parts but the Arduino code would be slightly different. I had all my motors facing the same direction
 but they face opposite directions in the prebuilt chassis so just be aware of that.
 
 Either way, use hot glue or some other adhesive to attach your motors and Arduino parts to the chassis.
