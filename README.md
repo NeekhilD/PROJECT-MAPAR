@@ -325,9 +325,7 @@ Open up the file that was created from Xcode and plug in your phone. Choose your
 :octocat:
 
 
-![zwjivmhtsu4vkgrzbr9v_29_0f7afeb68e350d24b53f934424d89356_image](https://user-images.githubusercontent.com/26859754/48368399-a24c4800-e6d9-11e8-8bd2-e422effbc8b7.gif)
-
-
+![sygw](https://user-images.githubusercontent.com/26859754/48368510-efc8b500-e6d9-11e8-9776-abb600740366.gif)
 
 
 
