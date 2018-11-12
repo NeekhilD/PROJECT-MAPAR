@@ -307,6 +307,7 @@ If you are building out to an iPhone or and iPad, make sure to download Xcode fr
 Also, sign up for a free apple developer account from www.apple.developer.com. Go to file and hit build. 
 Open up the file that was created from Xcode and plug in your phone. Choose your development team and hit the play button.
 
-
-:+1:  :octocat:
+`Neekhil Dafade`
+:+1: 
+:octocat:
 
